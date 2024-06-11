@@ -9,8 +9,8 @@ import 'custom_themes/elevated_button_theme.dart';
 import 'custom_themes/outlined_button_theme.dart';
 import 'custom_themes/text_field_theme.dart';
 
-class TheAppTheme {
-  TheAppTheme._();
+class TAppTheme {
+  TAppTheme._();
 
 // ThemeData(
 //           textTheme: TextTheme(
